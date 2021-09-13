@@ -1,0 +1,2 @@
+travel.App=org.springframework.stereotype.Component
+travel.GreetingController=org.springframework.stereotype.Component
